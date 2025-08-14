@@ -43,6 +43,7 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 
+<img width="1230" height="736" alt="image" src="https://github.com/user-attachments/assets/97a832c2-8c97-44ec-8d57-d8efafd7fc97" />
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -53,5 +54,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+<img width="1919" height="1199" alt="Screenshot 2025-08-14 152452" src="https://github.com/user-attachments/assets/5000e213-81d4-43d2-85cb-30895193ec2f" />
+
 
 ### RESULT: 
